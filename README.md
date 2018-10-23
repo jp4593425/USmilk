@@ -89,7 +89,7 @@
 
 ![](https://user-gold-cdn.xitu.io/2018/10/23/1669eb295986e93d?w=1240&h=601&f=png&s=183185)
 
-接下来你需要下载一个叫Xshell的软件来进入服务器的控制台界面，[点击下载)](https://www.baidu.com/s?word=Xshell)。
+接下来你需要下载一个叫Xshell的软件来进入服务器的控制台界面，[点击下载](https://www.baidu.com/s?word=Xshell)。
 
 如果你是苹果电脑操作系统，更简单，无需下载xshell，系统可以直接连接VPS。打开终端（Terminal），输入ssh root@ip 其中“ip”替换成你VPS的ip, 按回车键，然后复制粘贴密码，按回车键即可登录。粘贴密码时有可能不显示密码，但不影响， 参考设置方法 如果不能用MAC自带的终端连接的话，直接网上搜“MAC连接SSH的软件”，有很多，然后通过软件来连接vps服务器就行，具体操作方式参考windows xshell。
 
