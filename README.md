@@ -220,15 +220,9 @@ chmod +x bbr.sh
 
 最后一步 使用酸酸乳科学上网
 
-客户端，我推荐原版的酸乳，个人感觉界面更简约
-
-然后ios的客户端，需要是appStore里下载。因为我没用过苹果手机，所以麻烦自行百度。
-
 这里是“酸酸乳”的下载地址及教程
 
-https://github.com/woshijiuge2018/-2019/edit/master/README.md
-
-
+https://github.com/woshijiuge2018/-2019/blob/master/README.md
 
 
 好了，教程到此结束，谢谢大家的兹辞
