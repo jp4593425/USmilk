@@ -89,9 +89,7 @@
 
 ![](https://user-gold-cdn.xitu.io/2018/10/23/1669eb295986e93d?w=1240&h=601&f=png&s=183185)
 
-接下来你需要下载一个叫Xshell的软件来进入服务器的控制台界面，[点击下载]
-
-然后用SSH工具连接远程服务器：[点击进入](https://github.com/woshijiuge2018/preparation1/blob/master/README.md)软件下载和连接教程
+接下来你需要下载一个叫PuTTY的软件来进入服务器的控制台界面，然后用SSH工具连接远程服务器：[点击进入](https://github.com/woshijiuge2018/preparation1/blob/master/README.md)软件下载和连接教程
 
 接下来分享一段一键部署服务器的代码，是中文版的，功能很强大，感谢作者，推荐大家使用
 
