@@ -89,35 +89,9 @@
 
 ![](https://user-gold-cdn.xitu.io/2018/10/23/1669eb295986e93d?w=1240&h=601&f=png&s=183185)
 
-接下来你需要下载一个叫Xshell的软件来进入服务器的控制台界面，[点击下载](https://www.baidu.com/s?word=Xshell)。
+接下来你需要下载一个叫Xshell的软件来进入服务器的控制台界面，[点击下载]
 
-如果你是苹果电脑操作系统，更简单，无需下载xshell，系统可以直接连接VPS。打开终端（Terminal），输入ssh root@ip 其中“ip”替换成你VPS的ip, 按回车键，然后复制粘贴密码，按回车键即可登录。粘贴密码时有可能不显示密码，但不影响， 参考设置方法 如果不能用MAC自带的终端连接的话，直接网上搜“MAC连接SSH的软件”，有很多，然后通过软件来连接vps服务器就行，具体操作方式参考windows xshell。
-
-下载安装Xshell后，打开软件
-
-点击左上角文件--打开--新建
-
-![](https://user-gold-cdn.xitu.io/2018/10/23/1669eb2de9f002b2?w=450&h=163&f=png&s=66728)
-
-
-![](https://user-gold-cdn.xitu.io/2018/10/23/1669eb2fa400442c?w=570&h=348&f=png&s=116209)
-
-
-然后填入下面信息，只需要改图中两个箭头所指，其他的不用改
-
-
-![](https://user-gold-cdn.xitu.io/2018/10/23/1669eb317053ea6e?w=576&h=499&f=png&s=166770)
-
-接下来输入用户名（有的小伙伴反应不能弹出这个框，如果有这种情况，ping一下这个ip，ping不通的原因是因为这个ip被qiang了，只能destory当前ip，然后重开一个，这个没得办法，不会ping的搜索一下）
-
-![](https://user-gold-cdn.xitu.io/2018/10/23/1669eb34f4f8c769?w=345&h=195&f=png&s=67977)
-
-![](https://user-gold-cdn.xitu.io/2018/10/23/1669eb3779329dca?w=437&h=395&f=png&s=131433)
-
-密码输入正确之后，如下图所示
-
-
-![](https://user-gold-cdn.xitu.io/2018/10/23/1669eb3954ad46c9?w=964&h=754&f=png&s=346585)
+然后用SSH工具连接远程服务器：[点击进入](https://github.com/woshijiuge2018/preparation1/blob/master/README.md)软件下载和连接教程
 
 接下来分享一段一键部署服务器的代码，是中文版的，功能很强大，感谢作者，推荐大家使用
 
