@@ -99,22 +99,7 @@
 
 CentOS/Debian/Ubuntu 酸酸乳单/多端口一键管理脚本：
 
---------------------以下区域全部复制--------------------------------
-
-yum -y install wget
-
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
-复制代码
-----------------------------------------------------------------------
-
-备用下载地址：
-
---------------------以下区域全部复制--------------------------------
-
-yum -y install wget
-wget -N --no-check-certificate https://softs.wtf/Bash/ssr.sh && chmod +x ssr.sh && bash ssr.sh
-复制代码
------------------------------------------------------------------------
+https://github.com/jp4593425/USmilk/edit/master/README.md
 
 安装成功之后显示如下图，如果下次还想调出此界面，输入 bash ssr.sh
 
