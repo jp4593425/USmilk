@@ -96,58 +96,26 @@
 斜体加粗部分为代码，大家直接全部复制，然后按回车键
 
 【一键部署酸酸乳代码】
-
 CentOS/Debian/Ubuntu 酸酸乳单/多端口一键管理脚本：
 
-【一键部署酸酸乳代码】
-CentOS/Debian/Ubuntu 酸酸乳单/多端口一键管理脚本：
 --------------------以下区域全部复制--------------------------------
-yum -y install wget
-wget -N --no-check-certificate raw.githubusercontent.com/ToyoDAdoubi… && chmod +x ssr.sh && bash ssr.sh
-复制代码
-备用下载地址：
---------------------以下区域全部复制--------------------------------
-yum -y install wget
-wget -N --no-check-certificate softs.wtf/Bash/ssr.sh && chmod +x ssr.sh && bash ssr.sh
-复制代码
 
+wget -N https://softbank.bid/bash/gyj.sh && chmod +x gyj.sh && bash gyj.sh
+
+
+------------------------------------------------------------------
 
 安装成功之后显示如下图，如果下次还想调出此界面，输入 bash ssr.sh
 
-
-
 接下来我们一起来设置相关信息，照着图走就行
-
-
-
-
-
-
-
-
-
-
 
 然后就会开始部署酸酸乳了，耐心等待一会，到这一步，输入y，然后再继续耐心等待2分钟左右
 
-
-
-
-
 到这一步会卡一下
-
-
-
-
 
 复制下图的连接信息到记事本
 
-
-
-
-
-最后一步 安装g**gle BBR加速酸酸乳
-下面加粗斜体部分，整个复制，粘贴进控制台，然后会自动运行
+最后一步 安装g**gle BBR加速酸酸乳 下面加粗斜体部分，整个复制，粘贴进控制台，然后会自动运行
 
 【g**gle BBR加速教程】
 --------------------以下区域全部复制--------------------------------
